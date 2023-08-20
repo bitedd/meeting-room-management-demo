@@ -1,0 +1,21 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-clubreservation-dev-154926-authRole",
+      "UnauthRoleArn": "arn:aws:iam::255152457896:role/amplify-clubreservation-dev-154926-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::255152457896:role/amplify-clubreservation-dev-154926-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-clubreservation-dev-154926-deployment",
+      "UnauthRoleName": "amplify-clubreservation-dev-154926-unauthRole",
+      "StackName": "amplify-clubreservation-dev-154926",
+      "StackId": "arn:aws:cloudformation:us-east-1:255152457896:stack/amplify-clubreservation-dev-154926/b7763020-3f25-11ee-a118-122dff0ad54d",
+      "AmplifyAppId": "d5060ufb9baya"
+    },
+    "categories": {
+      "auth": {
+        "clubreservationAuth": {},
+        "userPoolGroups": {}
+      }
+    }
+  }
+}
